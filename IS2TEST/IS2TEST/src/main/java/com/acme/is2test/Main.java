@@ -12,5 +12,4 @@ public class Main {
     
     }
     
-    //Jxmmy  es Gay y se la come
 }
